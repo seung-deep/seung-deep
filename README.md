@@ -8,7 +8,7 @@ I'm a Web Developer based in India. I specialize in Web Development and am passi
 - **Frameworks**: React, Node.js, Flask etc.
 - **Tools**: Docker, Git, etc.
 - **Databases**: MySQL, MongoDB, etc.
-- 
+
 ## 📚 I’m currently learning
 - I'm currently deepening my knowledge in AI Tools and Python Language.
 - Exploring Machine Learning field.
